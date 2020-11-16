@@ -1,3 +1,7 @@
+## Hi :wave:, I'm Monty
+Computer Science Major @ [RIT](https://www.rit.edu/). Software Development Intern @ [eVestment](https://evestment.com/). If I'm not at a computer you can probably find me reading or trying to learn Spanish. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/montgomery-watts/) or reach out through [email](mailto:mjw4633@rit.edu).
+
+## Technologies
 ![](https://img.shields.io/badge/Framework-Spring%20Boot-informational?style=flat&logo=spring&logoColor=white&color=6DB33F)
 ![](https://img.shields.io/badge/Framework-Vue.Js-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=000000)
